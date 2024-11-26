@@ -8,7 +8,7 @@
   "dependencies": {
     "jest": "^29.2.2",
     "linter-bundle": "^6.0.0",
-    "vite": "^5.0.0"
+    "vite": "^6.0.0"
   },
   "scripts": {
     "test": "jest"
